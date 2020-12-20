@@ -1,3 +1,5 @@
+/* Time Complexity O(N)
+   Space COmplexity O(N) */
 int Solution::trap(const vector<int> &A) {
     vector<int> B(A.size(),0);
     vector<int> C(A.size(),0);
