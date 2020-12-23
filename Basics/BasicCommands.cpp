@@ -23,6 +23,8 @@ int main(){
     cout<<var1/5<<endl;
     // % modulus to find remainder
     cout<<var1%3;
+    // shorthand for operations
+    var1+=1;
 	//on sucessful execution of the code the main function would return 0
 	return 0;
 }
