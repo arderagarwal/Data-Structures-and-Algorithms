@@ -27,7 +27,8 @@ int main(){
     var1+=1;
     //preincrement
     ++var1;
-    
+    //postincrement
+    var1++;
 	//on sucessful execution of the code the main function would return 0
 	return 0;
 }
