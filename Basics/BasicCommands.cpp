@@ -25,6 +25,9 @@ int main(){
     cout<<var1%3;
     // shorthand for operations
     var1+=1;
+    //preincrement
+    ++var1;
+    
 	//on sucessful execution of the code the main function would return 0
 	return 0;
 }
