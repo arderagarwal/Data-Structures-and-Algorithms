@@ -5,6 +5,7 @@ int main(){
     cin>>n;
     int * arr = new int [n];
     int * pre = new int [n+1];
+    //O(N^2) Approach
     pre[0]=0;
     for(int i=0; i<n;i++){
         cin>>arr[i];
@@ -17,6 +18,7 @@ int main(){
         }
     }
     cout<<ans<<endl;
+    //O(N^3) Approach
     ans=INT_MIN;
     for(int start=0; start<n ; start++){
         for(int end=start; end<n; end++){
