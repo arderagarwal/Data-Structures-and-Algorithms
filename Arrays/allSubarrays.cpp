@@ -4,6 +4,7 @@ int main(){
     int n;
     cin>>n;
     int * arr = new int [n];
+    //taking input
     for(int i=0; i<n;i++){
         cin>>arr[i];
     }
@@ -12,7 +13,7 @@ int main(){
             for(int itr=start; itr<=end;itr++){
                 cout<<arr[itr];
             }
-            cout<<endl;
+            cout<<endl; //skipping to new line after every subarray
         }
     }
 }
