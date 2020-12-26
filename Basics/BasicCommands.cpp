@@ -33,6 +33,12 @@ int main(){
     --var1;
     //postdecrement
     var1--;
+    if(var1%2==0){
+        cout<<"Var1 is Even"<<endl;
+    }
+    else{
+        cout<<"Var1 is odd";
+    }
 	//on sucessful execution of the code the main function would return 0
 	return 0;
 }
