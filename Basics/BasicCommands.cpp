@@ -33,6 +33,7 @@ int main(){
     --var1;
     //postdecrement
     var1--;
+    //if else statement syntax
     if(var1%2==0){
         cout<<"Var1 is Even"<<endl;
     }
