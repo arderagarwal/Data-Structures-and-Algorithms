@@ -40,10 +40,12 @@ int main(){
     else{
         cout<<"Var1 is odd";
     }
+    //for loop syntax
     for(int i=0;i <10;i++){
         cout<<i<<endl;
     }
     int i=10;
+    //while loop syntax
     while(i--){
         cout<<i<<endl;
     }
