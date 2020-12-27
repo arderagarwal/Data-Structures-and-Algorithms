@@ -43,6 +43,10 @@ int main(){
     for(int i=0;i <10;i++){
         cout<<i<<endl;
     }
+    int i=10;
+    while(i--){
+        cout<<i<<endl;
+    }
 	//on sucessful execution of the code the main function would return 0
 	return 0;
 }
