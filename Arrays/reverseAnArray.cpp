@@ -13,7 +13,7 @@ int main() {
      for(int i=0; i<n;i++){
         cout<<arr[i]<<" ";
     }
-    reverse(arr,arr+n);
+    reverse(arr,arr+n);         // reverse function is available in algorithms library
     for(int i=0; i<n;i++){
        cout<<arr[i]<<" ";
    }
