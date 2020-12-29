@@ -8,4 +8,6 @@ int main(){
     vec.pop_back();
     vec.front();
     vec.back();
+    vec.begin();
+    vec.end();
 }
