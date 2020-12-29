@@ -6,5 +6,6 @@ int main(){
         vec.push_back(i);
     }
     vec.pop_back();
-    
+    vec.front();
+    vec.back();
 }
