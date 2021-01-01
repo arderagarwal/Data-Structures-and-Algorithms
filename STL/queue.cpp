@@ -4,4 +4,5 @@ int main(){
     queue<int> q;
     q.push(1);
     q.pop();
+    q.front();
 }
