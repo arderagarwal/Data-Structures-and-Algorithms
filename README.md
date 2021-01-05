@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithms
-* [Basics](./tree/main/Basics)
-* [STL](./tree/main/STL)
-* [Arrays](./tree/main/Arrays)
+* [Basics](Data-Structures-and-Algorithms/tree/main/Basics)
+* [STL](Data-Structures-and-Algorithms/tree/main/STL)
+* [Arrays](Data-Structures-and-Algorithms/tree/main/Arrays)
 
 
